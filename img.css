@@ -1,0 +1,23 @@
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    padding: 15px;
+    background-color:black;
+    color: whitesmoke;
+}
+
+img{
+    border-radius: 10px;
+}
+
+a{
+    background-color: thistle;
+    color: whitesmoke;
+    width: 350px;
+    border-color: thistle;
+}
+
+body{
+    height: 850px;
+}
